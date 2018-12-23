@@ -1,5 +1,5 @@
 
-&copy; [Copyright 2018](LICENSE.md) Steamek
+&copy; [Copyright 2018] Steamek
 
 # game-Points
 This is my first game that I made all by myself. This is also a nice example to learn how to make programs. 
